@@ -1,1 +1,1 @@
-Working on solving pattern formation and active matter PDEs (and hopefully active matter PDEs) with NGsolve
+Solving pattern formation and active matter PDEs with NGsolve
